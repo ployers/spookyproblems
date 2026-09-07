@@ -1,0 +1,211 @@
+<!-- Sakura.css v1.5.1 -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/sakura.css@1.5.1/css/sakura.css"
+  type="text/css"
+>
+
+<style>
+/*
+ * Hugo Bear Blog + Sakura.css
+ *
+ * Sakura本体をそのまま使い、
+ * Hugo Bear Blog側の既存CSSと衝突する部分だけ補正。
+ */
+
+/* ========================================
+   Typography
+   ======================================== */
+
+/*
+ * Hugo Bear BlogはbodyにVerdanaを指定しているため、
+ * Sakura本来のsystem-ui系フォントに戻す。
+ */
+body {
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    "Noto Sans",
+    "Noto Sans JP",
+    sans-serif;
+
+  /* フォントの大きさと左右の余白を調整 */
+  font-size: 1.9rem;
+  max-width: 38em;
+
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+/* 段落間の余白を調整 */
+main p {
+  margin-bottom: 1.5rem;
+}
+
+
+/* ========================================
+   Site title
+   ======================================== */
+
+/*
+ * 現在のHugo Bear Blogでは
+ *
+ * <a class="title">
+ *   <h2>サイトタイトル</h2>
+ * </a>
+ *
+ * という構造になっている。
+ */
+.title h2 {
+  font-size: 2.2em;
+  font-weight: 700;
+}
+
+/* クリックできる文字をSakuraのリンク色に統一 */
+a,
+a:visited,
+.title,
+.title:visited,
+.title h2 {
+  color: #1d7484;
+}
+
+/* サイトタイトル */
+.title,
+.title:visited {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+/* サイトタイトルhover */
+.title:hover,
+.title:hover h2 {
+  color: #982c61;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+
+/* ========================================
+   Post title
+   ======================================== */
+
+/*
+ * 個別記事ページの記事タイトル。
+ * Sakura標準h1は2.35emなので、
+ * 希望に合わせて1.5emへ変更。
+ */
+main > h1 {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+/* タグでフィルタしたときの見出しの大きさ */
+main h3 {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+
+/* ========================================
+   Hugo Bear Blog compatibility
+   ======================================== */
+
+/*
+ * Hugo Bear Blogではリンクhoverにunderlineが付くため、
+ * Sakura標準のborder-bottom表現だけにする。
+ */
+a:hover {
+  text-decoration: none;
+  color: #982c61;
+  border-bottom: 2px solid #4a4a4a;
+}
+
+
+/*
+ * Hugo Bear Blogはblockquoteをitalicにしているが、
+ * Sakura本体ではitalicではないため解除。
+ */
+blockquote {
+  font-style: normal;
+}
+
+
+/*
+ * Hugo Bear Blogはtime要素をmonospace固定しているため解除。
+ * 記事の日付も本文フォントに合わせる。
+ */
+time {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+
+/*
+ * Hugo Bear Blogのhrは破線。
+ * Sakuraに合わせて通常の水平線へ。
+ */
+hr {
+  border: 0;
+  border-top: 1px solid #1d7484;
+}
+
+
+/* ========================================
+   Blog post list
+   ======================================== */
+
+/*
+ * Hugo Bear Blog標準の投稿一覧。
+ * Sakuraの本文サイズと馴染ませる。
+ */
+ul.blog-posts {
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+}
+
+ul.blog-posts li {
+  margin-bottom: 0.4em;
+}
+
+
+/* ========================================
+   Footer
+   ======================================== */
+
+/*
+ * Hugo Bear Blogは中央寄せなので、
+ * Sakuraのclasslessな雰囲気に合わせて左寄せ。
+ */
+footer {
+  text-align: left;
+}
+
+/* ========================================
+   Header
+   ======================================== */
+
+/*
+ * ナビゲーションとその下の文の間をあける。
+ */
+header nav {
+  margin-bottom: 2.0rem;
+}
+
+/* ========================================
+   Japanese
+   ======================================== */
+
+body {
+  word-break: normal;
+  overflow-wrap: break-word;
+}
+
+:lang(ja) {
+  line-break: strict;
+}
+</style>
