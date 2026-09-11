@@ -15,7 +15,6 @@ draft = false
 
 ヤノマミの敵集団への襲撃は共同で行われるため、マクファーランらはこれを「共同unokai」と呼ぶ。そして、共同unokaiは兄弟的利益集団モデルと戦略的同盟モデルとのどちらによく当てはまるかをマクファーランらは分析した。そして、Chagnon 1988[^5]が示したような、unokaiが非unokaiよりも高い繁殖成功を持つ理由を説明するさらに詳細なメカニズムをも分析した。
 
-___
 [^1]: [Macfarlan, S. J., Walker, R. S., Flinn, M. V., & Chagnon, N. A. (2014). Lethal coalitionary aggression and long-term alliance formation among Yanomamö men. Proceedings of the National Academy of Sciences, 111(47), 16662-16669.](https://www.pnas.org/doi/pdf/10.1073/pnas.1418639111)
 [^2]: この論点については霊長類学者Richard Wranghamが多くの議論を行っている。[Wrangham and Glowacki (2012)](https://link.springer.com/content/pdf/10.1007/s12110-012-9132-1.pdf)などを参照せよ。
 [^3]:  [Rodseth, Lars, and Wrangham, Richard (2004) Human kinship: A Continuation of Politics by Other Means? Kinship and Behavior in Primates, eds Chapais B, Berman CM (Oxford Univ Press, Oxford, UK), pp 389-419.](https://d1wqtxts1xzle7.cloudfront.net/86528642/Human_Kinship_Rodseth_Wrangham_2004_-libre.pdf?1653613816=&response-content-disposition=inline%3B+filename%3DHuman_Kinship_A_Continuation_of_Politics.pdf&Expires=1789116251&Signature=PvsUV4nt77XC-DGrJrMmpN8P-54nEEwtx2aeMv2WtBfEBVsl2oftDopLRnz5HDcy08PpMG9aSK5JsO3pBR-1CrW5MBSX~jAgme3xJ1PAYTnQYCvZoqhK6Wef~Fj5RRE6NNnMbZkKnm~vV7rSM1Dq5lwckgwO16qBotCp8fkTF3fhfzPkwrZd2sKvLaZMGSO3Vf4pz95H8hDgy3EJWM14axuJVRJWkgi9f11NxglFhPemZw5uywcNw4OxV2O6zbnwJ7DDPgjjoYvsZ4VuyFrPQAsycLBO31wTpwAU5T0vZFWa1z9BD4CVa888dq-orq0Mj1b4u6F7uUeQcwJ3Do4eLQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
