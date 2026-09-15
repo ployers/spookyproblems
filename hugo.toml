@@ -10,7 +10,7 @@ theme = 'hugo-bearblog'
 title = "Spookies and Other Problems"
 author = "ployer"
 copyright = "Copyright © 2026, ployer."
-languageCode = "ja-JP"
+locale = "ja-JP"
 defaultContentLanguage = 'ja'
 
 # Generate a nice robots.txt for SEO
