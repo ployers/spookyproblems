@@ -1,6 +1,6 @@
 +++
 slug = "searle-1995-realism-008"
-title = "Searle 1995の外的実在論 (external realism) その8"
+title = "Searle 1995の外的実在論 (external realism) その8 (終)"
 date = "2026-09-30"
 tags = [
     "philosophy",
