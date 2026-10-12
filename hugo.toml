@@ -12,6 +12,7 @@ author = "ployer"
 copyright = "Copyright © 2026, ployer."
 locale = "ja-JP"
 defaultContentLanguage = 'ja'
+timeZone = "Asia/Tokyo"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
