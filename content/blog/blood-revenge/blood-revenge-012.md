@@ -10,7 +10,7 @@ tags = [
 draft = false
 +++
 
-生物学者Rovert Triversが互恵的関係の進化とその基礎的心理の両方を論じて以来[^1]、霊長類学者たちは動物どのように「通貨」 (currensies)を交換しているのかを問題にしてきた(e.g. Seyfarth 1977[^2])。しかし、それらの研究で見られた互恵性は対称的関係特性に基づいていることが明らかになった (e.g. de Waal and Luttrell 1986[^3])。
+生物学者Robert Triversが互恵的関係の進化とその基礎的心理の両方を論じて以来[^1]、霊長類学者たちは動物がどのように「通貨」 (currencies)を交換しているのかを問題にしてきた(e.g. Seyfarth 1977[^2])。しかし、それらの研究で見られた互恵性は対称的関係特性に基づいていることが明らかになった (e.g. de Waal and Luttrell 1986[^3])。
 
 そこで、de Waal and Luttrell 1988[^4]は対称性に基づく互恵性 (symmetry-based reciprocity)と計算された互恵性 (calculated reciprocity)とを区別する。第一の互恵性は短期的には一方的でも、生涯を通じれば均衡するかもしれない。第二の互恵性が続くかどうかは、相手が返報するかどうかに依存する。後者はある種の取引であり、複雑な認知能力を必要とする。
 
@@ -19,7 +19,7 @@ de Waal and Luttrell 1988の目的は、(1)飼育下の霊長類集団におけ�
 de Waal and Luttrell 1988は以下の定式化された仮説を挙げ、それぞれ検討していく。
 * 近接効果 (effects of proximity)
     * 1a. 空間的距離仮説 (spatial distance hypothesis)。単に近くにいるから争いに巻き込まれやすいというとき、近接度はproとcontraの両方に正に相関する。
-    * 1b. 社会的結びつき仮説 (social bonding hypothesis)。近接関係は個体間の愛着を反映を示すとしたとき、闘争への介入は偏り、proとcontraは相関しない。
+    * 1b. 社会的結びつき仮説 (social bonding hypothesis)。近接関係は個体間の愛着を反映するとしたとき、闘争への介入は偏り、proとcontraは相関しない。
 * 互恵性のメカニズム (reciprocity mechanisms)
     * 2a. 対称性に基づく互恵性 (symmetry-based reciprocity)。対称的関係特性による要因を統計的に統制した時、A→BとB→Aの相関(つまり互恵性)は消える。
     * 2b. 計算された互恵性 (calculated reciprocity)。対称的関係特性による要因を統計的に統制しても、互恵性は残る。

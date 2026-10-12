@@ -10,7 +10,7 @@ tags = [
 draft = false
 +++
 
-霊長類学者Frans de WaalとLesleigh Luttrellは飼育下の飼育下のチンパンジー (Pan troglodytes)、アカゲザル (Macaca mulatta)、ベニガオザル (M. arctoides)における闘争への介入 (agonistic intervention)を観察し、霊長類における互恵性が対称的関係特性 (symmetrical relationship characteristics)によるのか、それとも認知的メカニズムによるのかを分析した[^1]。
+霊長類学者Frans de WaalとLesleigh Luttrellは飼育下のチンパンジー (Pan troglodytes)、アカゲザル (Macaca mulatta)、ベニガオザル (M. arctoides)における闘争への介入 (agonistic intervention)を観察し、霊長類における互恵性が対称的関係特性 (symmetrical relationship characteristics)によるのか、それとも認知的メカニズムによるのかを分析した[^1]。
 
 闘争への介入とは、ある個体が、他の2個体の間で進行中の争いで一方を威嚇または攻撃することによりいずれかの側につくことを指す。対称的関係特性とは、個体AとBが両方向で同じ値をもつ関係特性である。ここでは近接関係 (proximity; AとBがともに同じ時間と空間を共有すること)、性の組合せ (sex combination; AとBが異性または同性であること)、母系血縁 (matrilineal kinship; AとBが母系血縁の関係にある事)の3つがこの特性として扱われる。いずれもAとBの関係を入れ替えても値は変わらない。しかし、闘争への介入は対称的ではない。なぜなら、AがBに介入する頻度と、BがAに介入する頻度は同じとは限らないからである。
 
