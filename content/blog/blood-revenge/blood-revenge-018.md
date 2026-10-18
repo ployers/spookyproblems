@@ -15,4 +15,4 @@ draft = false
 しかし、ここでもう一つの問題が発生する。報復的なコストを課した相手から将来得られる利益を失う、という問題である。この問題に対する解決策は赦しである。赦しのシステムは報復を抑制し、関係を修復するよう動く。これら2つのシステムの作動は、攻撃者から将来搾取されるリスクと、加害者との関係が将来持つ価値の期待値の推定とに依存する。著者らは、これらのシステムの作動に関する実証的証拠を検討し、その出力にみられる文化差および個人差の原因を論じ、計算アーキテクチャの概要を示していく。
 
 [^1]: [McCullough, Michael E., Robert Kurzban, and Benjamin A. Tabak. (2013). Cognitive systems for revenge and forgiveness. Behavioral and Brain Sciences, 36(1), 1-15.](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1062&context=esi_pubs)
-[^2]: 進化的な文脈でrevenge systemという語を最初に使い始めたのはおそらく[de Waal and Luttrell 1988](/blood-revenge-13)だろう。しかし、この論文では引用されていない。[Aureli et al. 1992](/blood-revenge-16)は引用されている。
+[^2]: 進化的な文脈でrevenge systemという語を最初に使い始めたのはおそらく[de Waal and Luttrell 1988](/blood-revenge-13)だろう。しかし、この論文では参照されていない。[Aureli et al. 1992](/blood-revenge-16)は参照されている。
